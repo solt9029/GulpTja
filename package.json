@@ -1,0 +1,25 @@
+{
+  "name": "gulp-tja",
+  "version": "1.0.0",
+  "description": "To convert tja6 syntax file to tja file with gulp.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/solt9029/GulpTja.git"
+  },
+  "keywords": [
+    "tja"
+  ],
+  "author": "Kenshi Shiode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/solt9029/GulpTja/issues"
+  },
+  "homepage": "https://github.com/solt9029/GulpTja#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
